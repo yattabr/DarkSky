@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">DarkSky</string>
-    <string name="ad_text">To unlock all functions of this app, get the Premium version. Click here to buy.</string>
+    <string name="ad_text">To unlock all functions of this app, get the Premium version.</string>
     <string name="change_metric">Click to change the Metric</string>
 </resources>
